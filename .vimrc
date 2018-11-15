@@ -199,7 +199,7 @@ color desert
 set shiftwidth=4
 set tabstop=4
 set cmdheight=1
-set number
+"set number
 set wildmode=list:longest,full
 set completeopt=longest,menuone
 set nowrap
